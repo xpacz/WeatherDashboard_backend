@@ -1,0 +1,14 @@
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.csprojAssemblyReference.cache
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.csproj.CoreCompileInputs.cache
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.RazorAssemblyInfo.cache
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.RazorAssemblyInfo.cs
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.AssemblyInfoInputs.cache
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.AssemblyInfo.cs
+/home/jairo/Proyectos/WeatherDashboardApi/bin/Debug/netcoreapp2.1/WeatherDashboardApi.deps.json
+/home/jairo/Proyectos/WeatherDashboardApi/bin/Debug/netcoreapp2.1/WeatherDashboardApi.runtimeconfig.json
+/home/jairo/Proyectos/WeatherDashboardApi/bin/Debug/netcoreapp2.1/WeatherDashboardApi.runtimeconfig.dev.json
+/home/jairo/Proyectos/WeatherDashboardApi/bin/Debug/netcoreapp2.1/WeatherDashboardApi.dll
+/home/jairo/Proyectos/WeatherDashboardApi/bin/Debug/netcoreapp2.1/WeatherDashboardApi.pdb
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.RazorTargetAssemblyInfo.cache
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.dll
+/home/jairo/Proyectos/WeatherDashboardApi/obj/Debug/netcoreapp2.1/WeatherDashboardApi.pdb
